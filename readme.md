@@ -1,4 +1,4 @@
-# Hi, Christopherson Andaya 👋
+# Hi, Christopherson Andaya 
 
 Welcome to my portfolio!
 
@@ -26,4 +26,4 @@ Construction Projects (Manila, Pasay, Makati, Valenzuela Philippines)
 
 ## Contact
 📧 tpr.andaya@gmail.com 
-🔗 LinkedIn | GitHub | Portfolio
+🔗 LinkedIn: https://www.linkedin.com/in/christopherson-andaya-2899a9235/
